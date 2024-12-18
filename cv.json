@@ -1,46 +1,41 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Florian POISSON GENY",
+    "label": "Développeur PHP Symfony",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "email": "dev@poissonmail.fr",
+    "phone": "+33681027322",
+    "url": "https://cv.poissonmail.fr",
+    "summary": "Développeur PHP Symfony depuis une dizaine d'années dans la conception et le développement d'applications web dans différents secteurs d'activités. J'aime les défis techniques et découvrir de nouveaux secteurs, et je suis ouvert à l'élargissement de ma stack.",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "35770",
+      "city": "Vern-sur-seiche",
+      "countryCode": "FR",
+      "region": "Ille-et-vilaine"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "florian-poisson-rennes",
+        "url": "https://www.linkedin.com/in/florian-poisson-rennes"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "florianfish",
+        "url": "https://github.com/florianfish"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "name": "Néosoft",
+      "position": "Consultant développeur PHP Symfony",
+      "location_type": "Hybrid",
+      "location": "Rennes, France",
+      "url": "https://www.neosoft.fr/",
+      "startDate": "2024-10-14",
       "endDate": null,
       "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
       "highlights": [
@@ -55,22 +50,24 @@
         "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "Symfony",
+        "Bootstrap",
+        "Git",
+        "Docker"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
+      "name": "6TM Group > Automobile Club de l'Ouest",
+      "position": "Développeur PHP Symfony",
       "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
+      "location": "Vern-sur-seiche, France",
+      "url": "https://www.lemans.org/",
+      "startDate": "2021-09-01",
+      "endDate": "2024-09-16",
       "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+        "L'Automobile Club de l'Ouest est une association de défense des usagers de la route qui gère également les courses automobiles sur le circuit du Mans.",
+        "Développement d'un ERP permettant la gestion des adhérents, leurs inscriptions, leurs paiements et leurs renouvellements, ainsi que l'aide à l'organisation des différentes courses proposées par l'association."
       ],
       "responsibilities": [
         "Developed and maintained backend services using Python and Django.",
@@ -81,26 +78,10 @@
         "Successfully implemented a feature that enhanced user authentication, improving security measures."
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
-      ],
-      "skills": [
-        "HTML",
-        "CSS"
+        "Symfony",
+        "Bootstrap",
+        "Git",
+        "Docker"
       ]
     }
   ],
